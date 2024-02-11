@@ -14,3 +14,5 @@ const summation = (n) => {
 };
 
 console.log(summation(5));
+
+// Time-complexity of this method will be O(n) time because it is iterating over each integer from 1 to n.
