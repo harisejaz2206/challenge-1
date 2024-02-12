@@ -1,10 +1,4 @@
-1. Make sure you have nodejs installed
-2. run the following commands to check the output of each of the following files:
-    node simple.summation.js
-    node recursive.summation.js
-    node arithmetic.summation.js
-
-    # Instructions for Executing Summation Scripts
+# Instructions for Executing Summation Scripts
 
 To execute the provided JavaScript files for summation, follow the steps outlined below:
 
